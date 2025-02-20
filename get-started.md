@@ -1,7 +1,10 @@
 # GET STARTED
 ##### Inception by M2Tech - [Online playgroumd](https://inception.m2tec.nl/)
 ##### You need tADA, go [here](https://docs.cardano.org/cardano-testnets/tools/faucet)
-##### [Examples from repo](https://github.com/GameChangerFinance/gamechanger.wallet/tree/main/examples)
+##### [Examples from Gamechanger Repo](https://github.com/GameChangerFinance/gamechanger.wallet/tree/main/examples)
+##### [Gamechanger Wallet - Old Website](https://gamechangerfinance.github.io/gamechanger.wallet/)
+##### [Gamechanger Finance](https://gamechanger.finance)
+
 - Navigate to `gamechanger.finance`
   - OPTIONAL `https://beta-preprod-wallet.gamechanger.finance/`
 - In upper right-hand corner select `TRY BETA V2`
