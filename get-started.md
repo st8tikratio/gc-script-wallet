@@ -1,4 +1,5 @@
 # GET STARTED
+##### You need tADA, go [here](https://docs.cardano.org/cardano-testnets/tools/faucet)
 - Navigate to `gamechanger.finance`
   - OPTIONAL `https://beta-preprod-wallet.gamechanger.finance/`
 - In upper right-hand corner select `TRY BETA V2`
