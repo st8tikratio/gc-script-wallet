@@ -2,7 +2,7 @@
 ##### Inception by M2Tech - [Online playgroumd](https://inception.m2tec.nl/)
 ##### [tADA Faucet](https://docs.cardano.org/cardano-testnets/tools/faucet) - Once per 24hrs
 ##### [Examples from Gamechanger Repo](https://github.com/GameChangerFinance/gamechanger.wallet/tree/main/examples)
-##### [Gamechanger Wallet - Old Website](https://gamechangerfinance.github.io/gamechanger.wallet/)
+##### [Gamechanger Wallet - GitHub Hosted](https://gamechangerfinance.github.io/gamechanger.wallet/)
 ##### [Gamechanger Finance](https://gamechanger.finance)
 
 - Navigate to `gamechanger.finance`
