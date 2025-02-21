@@ -6,9 +6,24 @@
 ##### [Gamechanger Finance](https://gamechanger.finance)
 ##### [GC Unimatrix](https://github.com/GameChangerFinance/unimatrix)
 
+- **Disk NFT** can be used for many things
+
+
 ### Multisig
 - [Validator.js](https://github.com/GameChangerFinance/unimatrix/blob/master/examples/nodejs/src/validator.js), Unimatrix - essentially off-chain transaction 
+- Unimatrix is a database and at least one node must be active
+  - Relay peers must be online
+  - If using required signing bots, they must be online as well
+    - signing bots need to receive a transaction and submit a transaction
+- private, secure, offline until submitted online 
 
+
+## If artifact starts with gc, and the code came from onchain file iand not submitted by file owner the transaction will fail
+
+
+
+
+---
 - Navigate to `gamechanger.finance`
   - OPTIONAL `https://beta-preprod-wallet.gamechanger.finance/`
 - In upper right-hand corner select `TRY BETA V2`
