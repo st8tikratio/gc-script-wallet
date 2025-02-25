@@ -16,6 +16,8 @@
 - GCScript depends on the dapp being fully transparent about activities
 - CIP-30 <-- What is it?
 
+- UTXO v. Accounting Model -> anyway to convert metadata or specific fields to place in an accounting model or vis a vis.
+
 ###### Pre-Prod Hash:
 - 003578683581766f613efb420f973e9d3f9671f27e8415435c3977e931fd1224fe09a56de237b477c72c464e29810e3133cc36501d057f2f7a
 
