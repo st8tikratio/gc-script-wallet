@@ -5,6 +5,16 @@
 ##### [Gamechanger Wallet - GitHub Hosted](https://gamechangerfinance.github.io/gamechanger.wallet/)
 ##### [Gamechanger Finance](https://gamechanger.finance)
 ##### [GC Unimatrix](https://github.com/GameChangerFinance/unimatrix)
+- GraphQL Compose
+- To feed Dingo into DGraph convert to JSON; can feed list into Dingo also
+- DGraph is in Go
+- Use binary iunstead of JSON where available
+- SQL is very performant; for making backup volumes
+  - put everything into Dingo, put graphQL onto and use plugins
+    - plugins keep things lightweight
+- Typescript node ->
+- GCScript depends on the dapp being fully transparent about activities
+- CIP-30 <-- What is it?
 
 ###### Pre-Prod Hash:
 - 003578683581766f613efb420f973e9d3f9671f27e8415435c3977e931fd1224fe09a56de237b477c72c464e29810e3133cc36501d057f2f7a
