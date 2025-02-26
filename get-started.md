@@ -25,6 +25,19 @@
 
 
 ### Multisig
+- click copy/share icon
+- DO NOT SAVE OR APPLY
+- after SHARE LINK (clicking on link will open workspace on local system:
+```
+https://beta-preprod-wallet.gamechanger.finance/api/2/run/1-H4sIAAAAAAAAA41T227jNhD9FUKvdQzeRfot6AUbFN0WyAJ9KIKA5AxjIbJkSFSybuB_78i3BN2k2wfL0nDmzPCcMy9VaUqL1aq62Wz7obDN1JZmbB7Yc2hbLGzEUpruYawWFeCYhmZbmr77fj7rO1bWzcgAn5qES3Z7PkihYxEpPjRPCCytmxbYI-7GBYtT05ZTJAAMOI44stAB68saB8qgJgSLI7KmGxsgmCZnHLAr5wGe--Fx3IaE45L9eXlnYUD21AxlCi17GPppSxNmipYmh1RGAg1lRu-f2TRSK1Z6tg5PyAIbt5ia0DZ_07SnJvh1S-Njl5C1zSMeWbgCbPEhzPwsLrwsWD-wMoRupDZs09MYoeu73aafxna3XBKvZbedBTiSS98ETsxejxT77YRC0QHLNBDxL9WmhzmfULDa08F0iB4nI5an7fx5Am37AD_2XT5ATFsIBW_gDfDP0JR-uJdcmisur6T5IvzKuJURS1nXP3Cx4pwq27AjTqrVXxfgC7V02hTcHA-7sME_Qik4T1ptqMFsnIPFXsPn3v_y1GvC0VrE9pnELtDd8UQ-6Xp7qGExjPjWKJmovl2T0sC-DBjGiSQiz_x0_TvbhC484IZ8smDyl-sz1OJgrlmVZbW_2y8u1_tMMj7h7VmSi6luYL7o6WZ3i_cufP9CZt7fX-Q8sXNW6J7fk6E6mCMUmP_4_NhO8VfcfQrj-hN-JSxlamedMk7U1mYrFOaoJc--VuhBZW9rkWWNTgujlUnK1zV6JWZLiPcAPdXHbIwBMCmDcdrJOtksRc7CSxM5dQr0aurohDMQlNO1kTOgfA8QXABqKLy1jmepk_fZGql1CNx7so91GoNI3GefvMlAT6jlwbTqPcAIWgYjDAjhhBGQVLJoLcEmy7VB7W3kNUBOOsRkpHfATQSacE-Qr_SW8IjfozeDkFJn5D4YCyhVHXVdp1ombTUStOCohFIpKWu4oEZ1lrkOH9IbgKugA2oTiVHDM6CtvbFUnnL2GqIWMXEXZJLOSs0V8SeV_pDerDB6p0g2FVERD1EpHolCJYUC7V1SYEUQGTWdzCxxDQnNx_SGSAMol43jlooiWiDKwXAdOQkjaOjsIggEpz3pOvesVZrp3b_Zjevjwv3XWnzj-fn9vV25nC-qw1a83bvPlP9N4nF5XrfrIPb_qJrTzlV0mzv6_QMaC0ox_AYAAA
+```
+- copy/paste into browser address
+- unpacks in Gamechanger (in browser)
+
+---
+
+
+---
 - [Validator.js](https://github.com/GameChangerFinance/unimatrix/blob/master/examples/nodejs/src/validator.js), Unimatrix - essentially off-chain transaction 
 - Unimatrix is a database and at least one node must be active
   - Relay peers must be online
